@@ -9,4 +9,5 @@ while loop:
         break
     list_name.append(name)
 list_name.sort()
-print(list_name)
+print("Danh sach sinh vien da sap xep la : ")
+print("\n".join(list_name))
